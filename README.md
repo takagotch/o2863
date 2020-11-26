@@ -2,6 +2,12 @@
 ---
 
 ###### [jquery.themepunch.revolution.min.js](https://github.com/takagotch/jquery.themepunch.revolution.min.js)
+ 
+###### [waypoint.js](https://github.com/takagotch/waypoint.js)
+
+###### [randomuser.me](https://github.com/takagotch/randomuser.me)
+
+
 
 
 ```
