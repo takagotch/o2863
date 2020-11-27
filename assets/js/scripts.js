@@ -7,7 +7,7 @@ var appMaster = {
             imageSources.push(sources);
         });
         if($(imageSources).load()){
-            $('.pre-loader').fadeOut('slow');
+            $('.pre-loader').fadeOut('fast');
         }
     },
 
